@@ -1,0 +1,23 @@
+npx parcel index.html --- to execute the parcel package on index.html
+
+parcel 
+-creates Dev build
+-makes the file to run on server
+-does HMR (hot module replacement)
+-file watching algorithm
+-caching - faster build
+-Image optimization
+-Bundling
+-Minification
+-Compress
+-consistent hashing
+-code splitting
+-Differential Bundling --- to support older browser
+-Diagnostic
+-error handling
+-HTTPS
+-Tree shaking ----remove unsed code 
+
+
+
+npx parcel build  index.html
